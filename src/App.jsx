@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import TeamPage from './TeamPage';
 import AboutUs from './AboutUs';
 import Home from './Home';
-import './index.css'; // Import Tailwind CSS
+import './index.css'; 
 
 function App() {
   return (
